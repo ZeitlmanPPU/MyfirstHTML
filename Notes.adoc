@@ -17,6 +17,12 @@
 
 [grids="rows",format="csv"]
 [options="header",cols="^,<,<s,<,>m"]
-[==============================
+|==============================
 location,environment,status,version,URL
+'{personal_webpage}','{webpage_loc}','{webpage_Env}','{webpage_status}','{webpage_version}','{webpage_URl}'
+|==============================
+
+
+
+
 
