@@ -19,7 +19,7 @@
 [options="header",cols="^,<,<s,<,>m"]
 |==============================
 location,environment,status,version,URL
-''{webpage_loc}','{webpage_Env}','{webpage_status}','{webpage_version}','{webpage_URl}'
+{webpage_loc},{webpage_Env},{webpage_status},{webpage_version},{webpage_URl}
 |==============================
 
 
