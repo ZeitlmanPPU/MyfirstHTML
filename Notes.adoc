@@ -1,5 +1,22 @@
-# Personal Webpage. 
+#personal Webpage. 
+
+:webpage_loc: Wood street
+:webpage_Env: staging
+:webpage_status: unavailable
+:webpage_version: 1.0
+:webpage_URL: https://rfzeitl.it.pointpark.com
+
+
+
+
 
 ## this build is to present my skills in making an HTMl page. 
 
 ## this is for testing purposes. 
+
+
+[grids="rows",format="csv"]
+[options="header",cols="^,<,<s,<,>m"]
+[==============================
+location,environment,status,version,URL
+
