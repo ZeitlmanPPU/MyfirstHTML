@@ -10,9 +10,14 @@
 
 
 
-## this build is to present my skills in making an HTMl page. 
 
-## this is for testing purposes. 
+
+## TO DO. 
+  -move info to correct connecting pages. 
+  -add a background theme.
+  -create page for interest. 
+  -figure out how to shorten length of page. 
+
 
 
 [grids="rows",format="csv"]
